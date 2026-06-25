@@ -6,4 +6,4 @@ There is a tutorial with all the available features. The text is accessible in t
 
 To make it work, you need at least **java 21** and **gradle**.
 
-The layout designs come from the site [uiverse.io]([url](https://uiverse.io/)).
+The layout designs come from the [uiverse.io](https://uiverse.io/).
